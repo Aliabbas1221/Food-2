@@ -1,0 +1,66 @@
+@media (max-width:1024px) {
+    
+}
+@media (max-width:991px) {
+    .text-content{
+        width: 100%;
+    }
+    .navigation-wrap.navbar-brand img{
+        height: 3.81rem;
+    }
+    .navigation-wrap{
+        text-align: center;
+        background-color: var(--white-color);
+    }
+    .top-banner{
+        padding: 9rem 0;
+    }
+    .testimonial-section.carousel-item .carousel-caption p{
+        padding: 0;
+    }
+}
+@media (max-width:767px) {
+    h1{
+        font-size: 2.8rem;
+
+    }
+    h2{
+        font-size: 2rem;
+        line-height: 2.098rem;
+    }
+    .about-end h2{
+        font-size: 25px;
+    }
+    .about-end{
+        height: auto;
+        padding: 3rem 0;
+    }
+    .testimonial-section.carousel-item{
+        padding: 11rem 3.125rem;
+    }
+    .newsletter{
+        width: 75%;
+    }
+    .newsletter  .main-btn{
+        width: 100%;
+        margin-top: 1rem;
+    }
+    .end-section a{
+        margin: 4px;
+        color: white;
+        font-size: 18px;
+    }
+    .footer-social a{
+        font-size: 25px;
+    }
+    .copy-right p{
+      font-size: 12px;
+    }
+
+    
+}
+@media (max-width:330px) {
+    .testimonial-section.carousel-item .carousel-caption p{
+        padding: 13rem 3.125rem;
+    }
+}
